@@ -6,11 +6,8 @@
 
 Dependencies: npm nodejs
 
-1. This step assumes you are in your home (default directory) directory. 
-to check, Type `pwd` in your shell and if it returns `home/<USER>`
-where user is your username, if it does not return that, type `cd` to 
-return to your home directory. (Don't worry you may remove the cloned
-repo from the home dir after you have installed evil.)
+1. This step assumes you are in your home directory. Type `cd` to 
+return to your home directory. 
 
 `$ git clone https://github.com/iuseneovimbtw/evilvim.git`
 
@@ -57,6 +54,9 @@ To check weather the lsp is running or not:
 open a file with .html extension (index.html)
 as you type a tag you should see the autocompletes, to the next one, use 
 CTRL-N, and the previous one CTRL-P.
+
+Now you may remove the cloned repo from your home directory!
+
 
 
 
