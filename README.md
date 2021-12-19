@@ -30,7 +30,7 @@ cp ~/Evilvim/en_US.dic /opt
 `sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'`
        
-#### 4. Do this in neovim**
+#### 4. Do this in neovim
 
 `:source %`
 
