@@ -18,9 +18,13 @@ repo from the home dir after you have installed evil.)
 2. Create the needed dirs and paste the cloned init.vim into .config/nvim 
 `
 mkdir -p .config/nvim
+
 cp .config/nvim
+
 cp ~/Evilvim/init.vim .
+
 cp ~/Evilvim/en_US.dic /opt
+
 `
 
 3. Notice that you get a bunch of errors when you open neovim after you just did that
