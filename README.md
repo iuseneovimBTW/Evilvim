@@ -15,7 +15,7 @@ $ git clone https://github.com/iuseneovimbtw/evilvim.git
 
 
 ####
-#### 2. Create the needed dirs and paste the cloned init.vim into .config/nvim, **Do this one by one**
+#### 2. Create the needed dirs and paste the cloned init.vim into .config/nvim, Do this one by one
 ```
 mkdir -p .config/nvim
 
@@ -26,8 +26,8 @@ cp ~/Evilvim/init.vim .
 cp ~/Evilvim/en_US.dic /opt
 ```
 
-#### 3. (**Copy the whole 2 lines and paste it to the shell then press enter,
-#### don't do it line 1 by one, or else it'll break and may harm your neovim installation**)
+#### 3. (Copy the whole 2 lines and paste it to the shell then press enter,
+#### don't do it line 1 by one, or else it'll break and may harm your neovim installation)
 
 ```sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
