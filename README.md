@@ -1,2 +1,2 @@
 # Evilvim
-Neovim rc with sane defaults and auto completion.
+## Neovim rc with sane defaults and auto completion.
