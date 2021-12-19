@@ -54,7 +54,7 @@ as you type a tag you should see the autocompletes, to the next one, use
 CTRL-N, and the previous one CTRL-P.
 
 Now you may remove the cloned repo from your home directory!
-
+*type :Goyo while in normal mode to enter no dstracation mode*
 
 
 
