@@ -15,7 +15,7 @@ repo from the home dir after you have installed evil.)
 `$ git clone https://github.com/iuseneovimbtw/evilvim.git`
 
 
-2. Create the needed dirs and paste the cloned init.vim into .config/nvim 
+2. Create the needed dirs and paste the cloned init.vim into .config/nvim, **Do this one by one**
 ```
 mkdir -p .config/nvim
 
@@ -37,9 +37,13 @@ don't do it line 1 by one, or else it'll break and may harm your neovim installa
        
 4. This step **assumes you are in neovim**
 `:source %`
+
 `:q!`
+
  Reopen vim
+
 `:PlugInstall`
+
  Close vim
 
 5. Install the LSP (language server protocol) servers, for html, css and js 
