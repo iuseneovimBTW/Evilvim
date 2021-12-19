@@ -10,7 +10,7 @@ Dependencies: npm nodejs
 #### return to your home directory. 
 
 ```
-$ git clone https://github.com/iuseneovimbtw/evilvim.git
+ git clone https://github.com/iuseneovimbtw/evilvim.git
 ```
 
 
