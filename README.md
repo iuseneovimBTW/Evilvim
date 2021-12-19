@@ -33,11 +33,11 @@ don't do it line 1 by one, or else it'll break and may harm your neovim installa
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'`
        
 4. This step **assumes you are in neovim**
-1`:source %`
-2`:q!`
-3 Reopen vim
-4`:PlugInstall`
-6 Close vim
+`:source %`
+`:q!`
+ Reopen vim
+`:PlugInstall`
+ Close vim
 
 5. Install the LSP (language server protocol) servers, for html, css and js 
 completion, if you want support for more language autocompletion you can 
