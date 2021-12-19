@@ -23,9 +23,6 @@ cp ~/Evilvim/init.vim .
 cp ~/Evilvim/en_US.dic /opt
 ```
 
-3. Notice that you get a bunch of errors when you open neovim after you just did that
-that's because you haven't installed the plugins and plugin manager, to do that
-simply do:
 (**Copy the whole 2 lines and paste it to the shell then press enter,
 don't do it line 1 by one, or else it'll break and may harm your neovim installation**)
 
