@@ -20,12 +20,14 @@ $ git clone https://github.com/iuseneovimbtw/evilvim.git
 mkdir -p .config/nvim
 ```
 cp .config/nvim
+
 ```
 cp ~/Evilvim/init.vim .
 ```
+
 cp ~/Evilvim/en_US.dic /opt
 ```
-```
+
 #### 3. (Copy the whole 2 lines and paste it to the shell then press enter,
 #### don't do it line 1 by one, or else it'll break and may harm your neovim installation)
 
