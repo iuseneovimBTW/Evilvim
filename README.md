@@ -18,7 +18,7 @@ $ git clone https://github.com/iuseneovimbtw/evilvim.git
 #### 2. Create the needed dirs and paste the cloned init.vim into .config/nvim, Do this one by one
 ```
 mkdir -p .config/nvim
-cp .config/nvim
+cd .config/nvim
 cp ~/Evilvim/init.vim .
 cp ~/Evilvim/en_US.dic /opt
 ```
