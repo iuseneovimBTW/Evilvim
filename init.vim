@@ -17,7 +17,7 @@ Plug 'junegunn/goyo.vim'
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
 
-set dictionary+=/home/dt/Dictionary/en_US.dic
+set dictionary+=/opt/en_US.dic
 
 let g:airline_theme='base16'
 syntax on
