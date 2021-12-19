@@ -36,6 +36,7 @@ don't do it line 1 by one, or else it'll break and may harm your neovim installa
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'`
        
 4. This step **assumes you are in neovim**
+
 `:source %`
 
 `:q!`
