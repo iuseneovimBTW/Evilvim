@@ -19,7 +19,7 @@ call plug#end()
 
 set dictionary+=/home/dt/Dictionary/en_US.dic
 
-let g:airline_theme='seagull'
+let g:airline_theme='base16'
 let g:airline#extensions#tabline#enabled = 1
 set colorcolumn=80
 set rnu
